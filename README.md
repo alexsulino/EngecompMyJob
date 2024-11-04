@@ -44,12 +44,30 @@ git checkout -q dev
 
 ### ` git merge dev` puxar branch dev para atual (master)
 
+
+
+##  ---------------- DEPLOY ----------------
+### `Netlify`
 ```
-## ---------------------------------------------------
+Tutorial: https://www.youtube.com/watch?v=EWGGcHfGYeI&t=16s&ab_channel=AlgaWorks
+https://app.netlify.com
+alexsulino
+senha: login com Gith
+Acesso conta: https://app.netlify.com/sites/spiffy-taiyaki-e37457/overview
+Acesso site: https://spiffy-taiyaki-e37457.netlify.app/
+```
+##  ---------------------------------------------------------
+
+
 
 
 ##  ---------------- SASS ----------------
 ```
+
+
+```
+## ---------------------------------------------------
+
 **Guide do tema criado em SASS**
 -  O SASS foi criado visando facilitar a criação de códigos CSS, por isso, nos traz várias 
 vantagens que o CSS não possui.
@@ -66,15 +84,6 @@ yarn i axios
 
 ```
 
-##  ---------------- Netlify  ----------------
-Tutorial: https://www.youtube.com/watch?v=EWGGcHfGYeI&t=16s&ab_channel=AlgaWorks
-
-https://app.netlify.com
-alexsulino
-senha: login com Gith
-Acesso conta: https://app.netlify.com/sites/spiffy-taiyaki-e37457/overview
-Acesso site: https://spiffy-taiyaki-e37457.netlify.app/
-##  ---------------------------------------------------------
 
 
 Currently, two official plugins are available:
