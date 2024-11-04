@@ -42,7 +42,7 @@ git fetch --prume --all
 
 git checkout -q dev
 
-git merge dev
+### ` git merge dev` puxar branch dev para atual (master)
 
 ```
 ## ---------------------------------------------------
