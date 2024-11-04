@@ -31,16 +31,12 @@ https://www.npmjs.com/package/uuidv4
 
 
 **build**
-### `npm run build`
+### `yarn build`
 
-### `npm run eject`
-### `npm run build` fails to minify
 
 ##  ---------------- Git ----------------
-```
+### `git push origin main`
 
-
-```
 
 ```
 ## ---------------------------------------------------
