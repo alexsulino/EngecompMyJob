@@ -1,13 +1,68 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-*Start*
+# Alex Sulino
 
-yarn create vite
-yarn
-yarn dev
+Dependências
+### `?????????`
 
+Rodar o projeto
+### `yarn create vite`
+### `yarn`
+### `yarn dev`
+
+
+## --------------------- Modulos ------------------------- 
+
+
+###  Gerar id unico `uuidv4`
+https://www.npmjs.com/package/uuidv4
+### npm install uuidv4
+
+
+## ------------------- API  -----------------------
+```
+
+
+```
+
+## ------------------------------------------------
+
+
+
+**build**
+### `npm run build`
+
+### `npm run eject`
+### `npm run build` fails to minify
+
+##  ---------------- Git ----------------
+```
+
+
+```
+
+```
+## ---------------------------------------------------
+
+
+##  ---------------- SASS ----------------
+```
+**Guide do tema criado em SASS**
+-  O SASS foi criado visando facilitar a criação de códigos CSS, por isso, nos traz várias 
+vantagens que o CSS não possui.
+
+- utilizar a pasta src/style/Sass/ 
+- https://www.youtube.com/watch?v=KnsNYOPHyTc
+```
+## ---------------------------------------------------
+
+
+##  ---------------- Hooks ----------------
+```
+yarn i axios
+
+```
 
 
 
