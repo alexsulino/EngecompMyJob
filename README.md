@@ -66,7 +66,15 @@ yarn i axios
 
 ```
 
+##  ---------------- Netlify  ----------------
+Tutorial: https://www.youtube.com/watch?v=EWGGcHfGYeI&t=16s&ab_channel=AlgaWorks
 
+https://app.netlify.com
+alexsulino
+senha: login com Gith
+Acesso conta: https://app.netlify.com/sites/spiffy-taiyaki-e37457/overview
+Acesso site: https://spiffy-taiyaki-e37457.netlify.app/
+##  ---------------------------------------------------------
 
 
 Currently, two official plugins are available:
