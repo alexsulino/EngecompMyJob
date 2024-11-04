@@ -6,7 +6,33 @@
 Dependências
 ### `?????????`
 
-## Rodar o projeto ---------------------------------------------- 
+## Prerequisites
+
+- **Node.js**: v20.17.0
+- **Yarn**: [Yarn Package Manager](https://yarnpkg.com/)
+- **GraphQL Codegen**: Run `yarn codegen` after initial installation or after any updates to `@engecomp/sdk`.
+
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/alexsulino/EngecompMyJob.git
+   ```
+2. **Install dependencies**:
+   ```
+   yarn install
+   ```
+3. **Vite**:
+   ```
+   yarn create vite
+   ```
+4. **Start**:
+   ```
+   yarn dev
+   ```
+
+
+## Resumo ---------------------------------------------- 
 ```
 yarn create vite
 yarn
