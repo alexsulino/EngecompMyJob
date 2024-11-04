@@ -38,7 +38,11 @@ https://www.npmjs.com/package/uuidv4
 ### `git push origin main`
 ### `git push origin dev`
 
+git fetch --prume --all
 
+git checkout -q dev
+
+git merge dev
 
 ```
 ## ---------------------------------------------------
