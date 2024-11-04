@@ -36,6 +36,8 @@ https://www.npmjs.com/package/uuidv4
 
 ##  ---------------- Git ----------------
 ### `git push origin main`
+### `git push origin dev`
+
 
 
 ```
