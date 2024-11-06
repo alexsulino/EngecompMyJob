@@ -3,7 +3,7 @@ import './App.css';
 import reactLogo from './assets/react.svg';
 import Footer from './Components/footer/Footer';
 import Header from './Components/Header/Header';
-import viteLogo from '/vite.svg';
+import viteLogo from '/myjob.svg';
 
 function App() {
   const [count, setCount] = useState(0)
